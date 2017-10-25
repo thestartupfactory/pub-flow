@@ -1,0 +1,22 @@
+{
+  "name": "pub-flow",
+  "version": "1.0.0",
+  "description": "Simple repo to fork from and begin experimenting working in Hubflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamfa/pub-flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teamfa/pub-flow/issues"
+  },
+  "homepage": "https://github.com/teamfa/pub-flow#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
